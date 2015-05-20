@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/setting_and_help">
+    <PreferenceCategory android:title="@string/setting_settings">
+        <CheckBoxPreference android:title="按键震动" android:key="vibration" android:defaultValue="false" android:summaryOn="按键震动已开启" android:summaryOff="按键震动已关闭" />
+        <CheckBoxPreference android:key="tipsview" android:title="辅助屏幕" android:summaryOn="辅助屏幕已开启" android:summaryOff="辅助屏幕已关闭" android:defaultValue="true" />
+        <CheckBoxPreference android:key="speedview" android:title="即时打字速度条" android:summaryOn="即时打字速度条已开启" android:summaryOff="即时打字速度条已关闭" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/setting_help">
+        <PreferenceScreen android:title="@string/setting_help_screen">
+            <intent android:action="com.aeviou.Util.HelpActivity" android:targetPackage="com.aeviou.front" android:targetClass="com.aeviou.Util.HelpActivity"/>
+        </PreferenceScreen>
+        <PreferenceScreen android:title="@string/setting_about">
+            <PreferenceCategory android:title="@string/setting_homepage" android:key="homepage">
+                <Preference android:title="@string/setting_homepage_val">
+                	<intent android:action="com.aeviou.Util.OpenUrlActivity" android:targetPackage="com.aeviou.front" android:targetClass="com.aeviou.Util.OpenUrlActivity"/>
+               	</Preference>
+            </PreferenceCategory><PreferenceCategory android:title="@string/setting_twitter" android:key="twitter">
+                <Preference android:title="@string/setting_twitter_val"/>
+            </PreferenceCategory>
+            <PreferenceCategory android:title="@string/setting_teach" android:key="teach">
+                <Preference android:title="@string/setting_teach_val"/>
+            </PreferenceCategory>
+            <PreferenceCategory android:title="@string/setting_plan" android:key="plan">
+                <Preference android:title="@string/setting_plan_val"/>
+            </PreferenceCategory>
+            <PreferenceCategory android:title="@string/setting_develop" android:key="develop">
+                <Preference android:title="@string/setting_develop_val1"/>
+                <Preference android:title="@string/setting_develop_val2"/>
+                <Preference android:title="@string/setting_develop_val3"/>
+                <Preference android:title="@string/setting_develop_val4"/>
+            </PreferenceCategory>
+            <PreferenceCategory android:title="@string/setting_develop_2" android:key="develop_2">
+                <Preference android:title="@string/setting_develop_val5"/>
+                <Preference android:title="@string/setting_develop_val6"/>
+                <Preference android:title="@string/setting_develop_val7"/>
+            </PreferenceCategory>
+            <PreferenceCategory android:key="art" android:title="@string/setting_art">
+                <Preference android:title="@string/setting_art_val1"/>
+            </PreferenceCategory>
+            
+        </PreferenceScreen>
+        
+    </PreferenceCategory>
+    
+</PreferenceScreen>

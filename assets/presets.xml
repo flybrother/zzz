@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presets>
+    <hexkeyScale x="125" y="140"></hexkeyScale>
+    <hexkeyPadding width="100" padding="0"></hexkeyPadding>
+    <englishkeyScale x="100" y="140"></englishkeyScale>
+    <englishkeyPadding width="100" padding="10"></englishkeyPadding>
+    <symbolkeyScale x="100" y="140"></symbolkeyScale>
+    <symbolkeypadding width="100" padding="10"></symbolkeypadding>
+    <symbolPage maxPage="2"></symbolPage>
+</presets>

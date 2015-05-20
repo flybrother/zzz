@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Aeviou中文滑行输入法</string>
+    <string name="setting_and_help">设置与帮助</string>
+    <string name="setting_settings">设置</string>
+    <string name="setting_help">帮助</string>
+    <string name="setting_help_screen">使用帮助</string>
+    <string name="setting_about">Aeviou开发团队</string>
+    <string name="setting_homepage">官方网站</string>
+    <string name="setting_homepage_val">http://aeviou.sinaapp.com/index.php</string>
+    <string name="setting_twitter">官方微博</string>
+    <string name="setting_twitter_val">weibo.com/u/1961313133</string>
+    <string name="setting_teach">指导</string>
+    <string name="setting_teach_val">戚正伟</string>
+    <string name="setting_plan">策划</string>
+    <string name="setting_plan_val">洪荣集</string>
+    <string name="setting_develop">开发1.0</string>
+    <string name="setting_develop_val1">范晔</string>
+    <string name="setting_develop_val2">董浩亮</string>
+    <string name="setting_develop_val3">夏嘉斌</string>
+    <string name="setting_develop_val4">傅承彦</string>
+    <string name="setting_develop_2">开发2.0</string>
+    <string name="setting_develop_val5">金正男</string>
+    <string name="setting_develop_val6">陆昊天</string>
+    <string name="setting_develop_val7">杨智渊</string>
+    <string name="setting_art">美工</string>
+    <string name="setting_art_val1">陈依</string>
+</resources>

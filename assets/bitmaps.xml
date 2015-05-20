@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keys>
+	<hexkeys bitmapname="hexkeys.png" hexkeywidth="97" hexkeyheight="112" bitmapwidth="3880" bitmapheight="448">
+	    <info edgeHeightScale="0.5" normalBitmapAmount="33" selectedBitmapAmount="33"></info>
+	    <hexkey name="b">
+	    	<bitmap status="normal" column="1" row="0">b_normal</bitmap>
+	    	<bitmap status="selected" column="1" row="1">b_selected</bitmap>
+	    	<bitmap status="changed" column="1" row="3">b_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="p">
+	    	<bitmap status="normal" column="15" row="0">p_normal</bitmap>
+	    	<bitmap status="selected" column="15" row="1">p_selected</bitmap>
+	    	<bitmap status="changed" column="15" row="3">p_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="m">
+	    	<bitmap status="normal" column="12" row="0">m_normal</bitmap>
+	    	<bitmap status="selected" column="12" row="1">m_selected</bitmap>
+	    	<bitmap status="changed" column="12" row="3">m_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="f">
+	    	<bitmap status="normal" column="5" row="0">f_normal</bitmap>
+	    	<bitmap status="selected" column="5" row="1">f_selected</bitmap>
+	   	    <bitmap status="changed" column="5" row="3">f_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="d">
+	        <bitmap status="normal" column="3" row="0">d_normal</bitmap>
+	        <bitmap status="selected" column="3" row="1">d_selected</bitmap>
+	        <bitmap status="changed" column="3" row="3">d_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="t">
+	        <bitmap status="normal" column="19" row="0">t_normal</bitmap>
+	        <bitmap status="selected" column="19" row="1">t_selected</bitmap>
+	        <bitmap status="changed" column="19" row="3">t_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="n">
+	        <bitmap status="normal" column="13" row="0">n_normal</bitmap>
+	        <bitmap status="selected" column="13" row="1">n_selected</bitmap>
+	        <bitmap status="next" column="13" row="2">n_next</bitmap>
+	        <bitmap status="changed" column="13" row="3">n_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="l">
+	        <bitmap status="normal" column="11" row="0">l_normal</bitmap>
+	        <bitmap status="selected" column="11" row="1">l_selected</bitmap>
+	        <bitmap status="changed" column="11" row="3">l_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="g">
+	        <bitmap status="normal" column="6" row="0">g_normal</bitmap>
+	        <bitmap status="selected" column="6" row="1">g_selected</bitmap>
+	        <bitmap status="next" column="6" row="2">g_next</bitmap>
+	        <bitmap status="changed" column="6" row="3">g_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="k">
+	        <bitmap status="normal" column="10" row="0">k_normal</bitmap>
+	        <bitmap status="selected" column="10" row="1">k_selected</bitmap>
+	        <bitmap status="changed" column="10" row="3">k_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="h">
+	        <bitmap status="normal" column="7" row="0">h_normal</bitmap>
+	        <bitmap status="selected" column="7" row="1">h_selected</bitmap>
+	        <bitmap status="next" column="7" row="2">h_next</bitmap>
+	        <bitmap status="changed" column="7" row="3">h_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="j">
+	        <bitmap status="normal" column="9" row="0">j_normal</bitmap>
+	        <bitmap status="selected" column="9" row="1">j_selected</bitmap>
+	        <bitmap status="changed" column="9" row="3">j_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="q">
+	        <bitmap status="normal" column="16" row="0">q_normal</bitmap>
+	        <bitmap status="selected" column="16" row="1">q_selected</bitmap>
+	        <bitmap status="changed" column="16" row="3">q_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="x">
+	        <bitmap status="normal" column="23" row="0">x_normal</bitmap>
+	        <bitmap status="selected" column="23" row="1">x_selected</bitmap>
+	        <bitmap status="changed" column="23" row="3">x_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="z">
+	        <bitmap status="normal" column="25" row="0">z_normal</bitmap>
+	        <bitmap status="selected" column="25" row="1">z_selected</bitmap>
+	        <bitmap status="changed" column="25" row="3">z_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="c">
+	        <bitmap status="normal" column="2" row="0">c_normal</bitmap>
+	        <bitmap status="selected" column="2" row="1">c_selected</bitmap>
+	        <bitmap status="changed" column="2" row="3">c_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="s">
+	        <bitmap status="normal" column="18" row="0">s_normal</bitmap>
+	        <bitmap status="selected" column="18" row="1">s_selected</bitmap>
+	        <bitmap status="changed" column="18" row="3">s_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="r">
+	        <bitmap status="normal" column="17" row="0">r_normal</bitmap>
+	        <bitmap status="selected" column="17" row="1">r_selected</bitmap>
+	        <bitmap status="next" column="17" row="2">r_next</bitmap>
+	        <bitmap status="changed" column="17" row="3">r_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="y">
+	        <bitmap status="normal" column="24" row="0">_normal</bitmap>
+	        <bitmap status="selected" column="24" row="1">y_selected</bitmap>
+	        <bitmap status="changed" column="24" row="3">y_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="w">
+	        <bitmap status="normal" column="22" row="0">w_normal</bitmap>
+	        <bitmap status="selected" column="22" row="1">w_selected</bitmap>
+	        <bitmap status="changed" column="22" row="3">w_changed</bitmap>
+	    </hexkey>
+	    <hexkey name="ng">
+	        <bitmap status="changed" column="29" row="3">ng_changed</bitmap>
+	        <bitmap status="selected" column="29" row="1">ng_selected</bitmap>
+	        <bitmap status="next" column="29" row="2">ng_next</bitmap>
+	    </hexkey>
+	    <hexkey name="a">
+	        <bitmap status="changed" column="0" row="3">a_changed</bitmap>
+	        <bitmap status="next" column="0" row="2">a_next</bitmap>
+	        <bitmap status="selected" column="0" row="1">a_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="o">
+	        <bitmap status="changed" column="14" row="3">o_changed</bitmap>
+	        <bitmap status="next" column="14" row="2">o_next</bitmap>
+	        <bitmap status="selected" column="14" row="1">o_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="e">
+	        <bitmap status="changed" column="4" row="3">e_changed</bitmap>
+	        <bitmap status="next" column="4" row="2">e_next</bitmap>
+	        <bitmap status="selected" column="4" row="1">e_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="i">
+	        <bitmap status="changed" column="8" row="3">i_changed</bitmap>
+	        <bitmap status="next" column="8" row="2">i_next</bitmap>
+	        <bitmap status="selected" column="8" row="1">i_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="u">
+	        <bitmap status="changed" column="20" row="3">u_changed</bitmap>
+	        <bitmap status="next" column="20" row="2">u_next</bitmap>
+	        <bitmap status="selected" column="20" row="1">u_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="v">
+	        <bitmap status="changed" column="21" row="3">v_changed</bitmap>
+	        <bitmap status="next" column="21" row="2">v_next</bitmap>
+	        <bitmap status="selected" column="21" row="1">v_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="aoe">
+	        <bitmap status="normal" column="30" row="0">aoe_normal</bitmap>
+	        <bitmap status="selected" column="30" row="1">aoe_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="enter">
+	        <bitmap status="normal" column="38" row="0">enter_normal</bitmap>
+	        <bitmap status="selected" column="38" row="1">enter_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="delete">
+	        <bitmap status="normal" column="31" row="0">delete_normal</bitmap>
+	        <bitmap status="selected" column="31" row="1">delete_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="space">
+	        <bitmap status="normal" column="35" row="0">space_normal</bitmap>
+	        <bitmap status="selected" column="35" row="1">space_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="comma">
+	        <bitmap status="normal" column="34" row="0">comma_normal</bitmap>
+	        <bitmap status="selected" column="34" row="1">comma_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="period">
+	        <bitmap status="normal" column="36" row="0">period_normal</bitmap>
+	        <bitmap status="selected" column="36" row="1">period_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="en">
+	        <bitmap status="normal" column="33" row="0">en_normal</bitmap>
+	        <bitmap status="selected" column="33" row="1">en_selected</bitmap>
+	    </hexkey>
+	    <hexkey name="symbols">
+	        <bitmap status="normal" column="32" row="0">symbols_normal</bitmap>
+	        <bitmap status="selected" column="32" row="1">symbols_selected</bitmap>
+		</hexkey>
+		<hexkey name="zh">
+		    <bitmap status="selected" column="26" row="1">zh_selected</bitmap>
+		</hexkey>
+		<hexkey name="ch">
+		    <bitmap status="selected" column="27" row="1">ch_selected</bitmap>
+		</hexkey>
+		<hexkey name="sh">
+		    <bitmap status="selected" column="28" row="1">sh_selected</bitmap>
+		</hexkey>
+		<hexkey name="setting">
+		    <bitmap status="normal" column="39" row="0">setting_normal</bitmap>
+		    <bitmap status="selected" column="39" row="1">setting_selected</bitmap>
+		</hexkey>
+		<hexkey name="question">
+		    <bitmap status="normal" column="37" row="0">question_normal</bitmap>
+		    <bitmap status="selected" column="37" row="1">question_selected</bitmap>
+		</hexkey>
+	</hexkeys>
+	<hexkeymiscs bitmapname="hexkeymiscs.png" leftrightwidth="98" candidatewidth="769" leftrightheight="110" candidiateheight="116" bitmapwidth="769" bitmapheight="336">
+	    <misc name="candidate">
+	        <bitmap status="visible"></bitmap>
+	    </misc>
+	    <misc name="left">
+		    <bitmap status="normal">left_normal</bitmap>
+		    <bitmap status="selected">left_selected</bitmap>
+		</misc>
+		<misc name="right">
+		    <bitmap status="normal">right_normal</bitmap>
+		    <bitmap status="selected">right_selected</bitmap>
+		</misc>
+	</hexkeymiscs>
+	<englishkeys bitmapname="enkeys.png" enkeywidth="98" enkeyheight="148" bitmapwidth="2940" bitmapheight="592">
+	    <info edgeHeightScale="0.5" normalBitmapAmount="56" selectedBitmapAmount="56"></info>
+	    <englishkey name="a">
+	        <bitmap status="normal" type="lower" column="0" row="0">a_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="0" row="2">a_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="0" row="1">a_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="0" row="3">a_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="b">
+	        <bitmap status="normal" type="lower" column="1" row="0">b_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="1" row="2">b_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="1" row="1">b_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="1" row="3">b_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="c">
+	        <bitmap status="normal" type="lower" column="2" row="0">c_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="2" row="2">c_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="2" row="1">c_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="2" row="3">c_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="d">
+	        <bitmap status="normal" type="lower" column="3" row="0">d_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="3" row="2">d_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="3" row="1">d_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="3" row="3">d_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="e">
+	        <bitmap status="normal" type="lower" column="4" row="0">e_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="4" row="2">e_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="4" row="1">e_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="4" row="3">e_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="f">
+	        <bitmap status="normal" type="lower" column="5" row="0">f_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="5" row="2">f_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="5" row="1">f_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="5" row="3">f_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="g">
+	        <bitmap status="normal" type="lower" column="6" row="0">g_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="6" row="2">g_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="6" row="1">g_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="6" row="3">g_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="h">
+	        <bitmap status="normal" type="lower" column="7" row="0">h_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="7" row="2">h_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="7" row="1">h_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="7" row="3">h_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="i">
+	        <bitmap status="normal" type="lower" column="8" row="0">i_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="8" row="2">i_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="8" row="1">i_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="8" row="3">i_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="j">
+	        <bitmap status="normal" type="lower" column="9" row="0">j_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="9" row="2">j_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="9" row="1">j_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="9" row="3">j_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="k">
+	        <bitmap status="normal" type="lower" column="10" row="0">k_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="10" row="2">k_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="10" row="1">k_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="10" row="3">k_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="l">
+	        <bitmap status="normal" type="lower" column="11" row="0">l_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="11" row="2">l_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="11" row="1">l_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="11" row="3">l_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="m">
+	        <bitmap status="normal" type="lower" column="12" row="0">m_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="12" row="2">m_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="12" row="1">m_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="12" row="3">m_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="n">
+	        <bitmap status="normal" type="lower" column="13" row="0">n_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="13" row="2">n_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="13" row="1">n_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="13" row="3">n_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="o">
+	        <bitmap status="normal" type="lower" column="14" row="0">o_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="14" row="2">o_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="14" row="1">o_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="14" row="3">o_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="p">
+	        <bitmap status="normal" type="lower" column="15" row="0">p_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="15" row="2">p_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="15" row="1">p_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="15" row="3">p_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="q">
+	        <bitmap status="normal" type="lower" column="16" row="0">q_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="16" row="2">q_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="16" row="1">q_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="16" row="3">q_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="r">
+	        <bitmap status="normal" type="lower" column="17" row="0">r_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="17" row="2">r_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="17" row="1">r_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="17" row="3">r_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="s">
+	        <bitmap status="normal" type="lower" column="18" row="0">s_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="18" row="2">s_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="18" row="1">s_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="18" row="3">s_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="t">
+	        <bitmap status="normal" type="lower" column="19" row="0">t_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="19" row="2">t_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="19" row="1">t_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="19" row="3">t_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="u">
+	        <bitmap status="normal" type="lower" column="20" row="0">u_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="20" row="2">u_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="20" row="1">u_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="20" row="3">u_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="v">
+	        <bitmap status="normal" type="lower" column="21" row="0">v_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="21" row="2">v_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="21" row="1">v_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="21" row="3">v_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="w">
+	        <bitmap status="normal" type="lower" column="22" row="0">w_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="22" row="2">w_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="22" row="1">w_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="22" row="3">w_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="x">
+	        <bitmap status="normal" type="lower" column="23" row="0">x_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="23" row="2">x_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="23" row="1">x_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="23" row="3">x_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="y">
+	        <bitmap status="normal" type="lower" column="24" row="0">y_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="24" row="2">y_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="24" row="1">y_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="24" row="3">y_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="z">
+	        <bitmap status="normal" type="lower" column="25" row="0">z_normal_lower</bitmap>
+	        <bitmap status="normal" type="upper" column="25" row="2">z_normal_upper</bitmap>
+	        <bitmap status="selected" type="lower" column="25" row="1">z_selected_lower</bitmap>
+	        <bitmap status="selected" type="upper" column="25" row="3">z_selected_upper</bitmap>
+	    </englishkey>
+	    <englishkey name="ch">
+	        <bitmap status="normal" type="eng" column="26" row="0">eng_ch_normal</bitmap>
+	        <bitmap status="selected" type="eng" column="26" row="1">eng_ch_selected</bitmap>
+	    </englishkey>
+	    <englishkey name="at">
+	        <bitmap status="normal" type="eng" column="27" row="0">eng_at_normal</bitmap>
+	        <bitmap status="selected" type="eng" column="27" row="1">eng_at_selected</bitmap>
+	    </englishkey>
+	    <englishkey name="comma">
+	        <bitmap status="normal" type="eng" column="28" row="0">eng_comma_normal</bitmap>
+	        <bitmap status="selected" type="eng" column="28" row="1">eng_comma_selected</bitmap>
+	    </englishkey>
+	    <englishkey name="dot">
+	        <bitmap status="normal" type="eng" column="29" row="0">eng_dot_normal</bitmap>
+	        <bitmap status="selected" type="eng" column="29" row="1">eng_dot_selected</bitmap>
+	    </englishkey>
+	</englishkeys>
+	<englishmiscs bitmapname="enkeymiscs.png"  bitmapwidth="974" bitmapheight="444">
+	    <englishmisc name="caps">
+	        <bitmap status="normal" type="eng" width="153" height="148" left="0" top="148">eng_caps_normal</bitmap>
+	        <bitmap status="selected" type="eng" width="153" height="148" left="0" top="296">eng_caps_selected</bitmap>
+	    </englishmisc>
+	    <englishmisc name="delete">
+	        <bitmap status="normal" type="eng" width="153" height="148" left="153" top="148">eng_delete_normal</bitmap>
+	        <bitmap status="selected" type="eng" width="153" height="148" left="153" top="296">eng_delete_selected</bitmap>
+	    </englishmisc>
+	    <englishmisc name="enter">
+	        <bitmap status="normal" type="eng" width="153" height="148" left="306" top="148">eng_enter_normal</bitmap>
+	        <bitmap status="selected" type="eng" width="153" height="148" left="306" top="296">eng_enter_selected</bitmap>
+	    </englishmisc>
+	    <englishmisc name="num_sym">
+	        <bitmap status="normal" type="eng" width="153" height="148" left="459" top="148">eng_num_sym_normal</bitmap>
+	        <bitmap status="selected" type="eng" width="153" height="148" left="459" top="296">eng_num_sym_selected</bitmap>
+	    </englishmisc>
+	    <englishmisc name="space">
+	        <bitmap status="normal" type="eng" tab="3" width="487" height="148" left="0" top="0">eng_space_normal</bitmap>
+	        <bitmap status="selected" type="eng" tab="3" width="487" height="148" left="487" top="0">eng_space_selected</bitmap>
+	    </englishmisc>
+	</englishmiscs>
+	<symbolkeys bitmapname="symkeys.png" symkeywidth="98" symkeyheight="148" bitmapwidth="2940" bitmapheight="592">
+	    <symbolkey name="1">
+	        <bitmap status="normal" page="1" column="0" row="0">text_1_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="0" row="1">text_1_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="0" row="2">text_1_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="0" row="3">text_1_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="2">
+	        <bitmap status="normal" page="1" column="1" row="0">text_2_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="1" row="1">text_2_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="1" row="2">text_2_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="1" row="3">text_2_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="3">
+	        <bitmap status="normal" page="1" column="2" row="0">text_3_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="2" row="1">text_3_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="2" row="2">text_3_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="2" row="3">text_3_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="4">
+	        <bitmap status="normal" page="1" column="3" row="0">text_4_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="3" row="1">text_4_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="3" row="2">text_4_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="3" row="3">text_4_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="5">
+	        <bitmap status="normal" page="1" column="4" row="0">text_5_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="4" row="1">text_5_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="4" row="2">text_5_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="4" row="3">text_5_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="6">
+	        <bitmap status="normal" page="1" column="5" row="0">text_6_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="5" row="1">text_6_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="5" row="2">text_6_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="5" row="3">text_6_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="7">
+	        <bitmap status="normal" page="1" column="6" row="0">text_7_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="6" row="1">text_7_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="6" row="2">text_7_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="6" row="3">text_7_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="8">
+	        <bitmap status="normal" page="1" column="7" row="0">text_8_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="7" row="1">text_8_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="7" row="2">text_8_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="7" row="3">text_8_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="9">
+	        <bitmap status="normal" page="1" column="8" row="0">text_9_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="8" row="1">text_9_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="8" row="2">text_9_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="8" row="2">text_9_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="10">
+	        <bitmap status="normal" page="1" column="9" row="0">text_10_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="9" row="1">text_10_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="9" row="2">text_10_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="9" row="3">text_10_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="11">
+	        <bitmap status="normal" page="1" column="10" row="0">text_11_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="10" row="1">text_11_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="10" row="2">text_11_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="10" row="3">text_11_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="12">
+	        <bitmap status="normal" page="1" column="11" row="0">text_12_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="11" row="1">text_12_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="11" row="2">text_12_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="11" row="3">text_12_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="13">
+	        <bitmap status="normal" page="1" column="12" row="0">text_13_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="12" row="1">text_13_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="12" row="2">text_13_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="12" row="3">text_13_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="14">
+	        <bitmap status="normal" page="1" column="13" row="0">text_14_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="13" row="1">text_14_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="13" row="2">text_14_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="13" row="3">text_14_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="15">
+	        <bitmap status="normal" page="1" column="14" row="0">text_15_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="14" row="1">text_15_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="14" row="2">text_15_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="14" row="3">text_15_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="16">
+	        <bitmap status="normal" page="1" column="15" row="0">text_16_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="15" row="1">text_16_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="15" row="2">text_16_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="15" row="3">text_16_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="17">
+	        <bitmap status="normal" page="1" column="16" row="0">text_17_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="16" row="1">text_17_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="16" row="2">text_17_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="16" row="3">text_17_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="18">
+	        <bitmap status="normal" page="1" column="17" row="0">text_18_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="17" row="1">text_18_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="17" row="2">text_18_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="17" row="3">text_18_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="19">
+	        <bitmap status="normal" page="1" column="18" row="0">text_19_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="18" row="1">text_19_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="18" row="2">text_19_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="18" row="3">text_19_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="20">
+	        <bitmap status="normal" page="1" column="19" row="0">text_20_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="19" row="1">text_20_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="19" row="2">text_20_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="19" row="3">text_20_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="21">
+	        <bitmap status="normal" page="1" column="20" row="0">text_21_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="20" row="1">text_21_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="20" row="2">text_21_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="20" row="3">text_21_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="22">
+	        <bitmap status="normal" page="1" column="21" row="0">text_22_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="21" row="1">text_22_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="21" row="2">text_22_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="21" row="3">text_22_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="23">
+	        <bitmap status="normal" page="1" column="22" row="0">text_23_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="22" row="1">text_23_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="22" row="2">text_23_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="22" row="3">text_23_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="24">
+	        <bitmap status="normal" page="1" column="23" row="0">text_24_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="23" row="1">text_24_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="23" row="2">text_24_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="23" row="3">text_24_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="25">
+	        <bitmap status="normal" page="1" column="24" row="0">text_25_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="24" row="1">text_25_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="24" row="2">text_25_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="24" row="3">text_25_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="26">
+	        <bitmap status="normal" page="1" column="25" row="0">text_26_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="25" row="1">text_26_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="25" row="2">text_26_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="25" row="3">text_26_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="27">
+	        <bitmap status="normal" page="1" column="26" row="0">text_27_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="26" row="1">text_27_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="26" row="2">text_27_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="26" row="3">text_27_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="28">
+	        <bitmap status="normal" page="1" column="27" row="0">text_28_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="27" row="1">text_28_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="27" row="2">text_28_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="27" row="3">text_28_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="29">
+	        <bitmap status="normal" page="1" column="28" row="0">text_29_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="28" row="1">text_29_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="28" row="2">text_29_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="28" row="3">text_29_selected_p2</bitmap>
+	    </symbolkey>
+	    <symbolkey name="30">
+	        <bitmap status="normal" page="1" column="29" row="0">text_30_normal_p1</bitmap>
+	        <bitmap status="selected" page="1" column="29" row="1">text_30_selected_p1</bitmap>
+	        <bitmap status="normal" page="2" column="29" row="2">text_30_normal_p2</bitmap>
+	        <bitmap status="selected" page="2" column="29" row="3">text_30_selected_p2</bitmap>
+	    </symbolkey>
+	</symbolkeys>
+	<symbolmiscs bitmapname="symkeymiscs.png"  bitmapwidth="974" bitmapheight="444">
+	    <symbolmisc name="page">
+	        <bitmap status="normal" type="symbol" page="1" width="153" height="148" left="0" top="148">symbol_page_normal_p1</bitmap>
+	        <bitmap status="selected" type="symbol" page="1" width="153" height="148" left="0" top="296">symbol_page_selected_p1</bitmap>
+	        <bitmap status="normal" type="symbol" page="2" width="153" height="148" left="153" top="148">symbol_page_normal_p2</bitmap>
+	        <bitmap status="selected" type="symbol" page="2" width="153" height="148" left="153" top="296">symbol_page_selected_p2</bitmap>
+	    </symbolmisc>
+	    <symbolmisc name="return">
+	        <bitmap status="normal" type="symbol" width="153" height="148" left="306" top="148">symbol_return_normal</bitmap>
+	        <bitmap status="selected" type="symbol" width="153" height="148" left="306" top="296">symbol_return_selected</bitmap>
+	    </symbolmisc>
+	    <symbolmisc name="delete">
+	        <bitmap status="normal" type="symbol" width="153" height="148" left="459" top="148">symbol_enter_normal</bitmap>
+	        <bitmap status="selected" type="symbol" width="153" height="148" left="459" top="296">symbol_enter_selected</bitmap>
+	    </symbolmisc>
+	    <symbolmisc name="enter">
+	        <bitmap status="normal" type="symbol" width="153" height="148" left="612" top="148">symbol_delete_normal</bitmap>
+	        <bitmap status="selected" type="symbol" width="153" height="148" left="612" top="296">symbol_delete_selected</bitmap>
+	    </symbolmisc>
+	    <symbolmisc name="space">
+	        <bitmap status="normal" type="symbol" tab="3" width="487" height="148" left="0" top="0">symbol_space_normal</bitmap>
+	        <bitmap status="selected" type="symbol" tab="3" width="487" height="148" left="487" top="0">symbol_space_selected</bitmap>
+	    </symbolmisc>
+    </symbolmiscs>
+</keys>

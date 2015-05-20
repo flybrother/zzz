@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keys>
+    <layout keyamount="41" bigrow="8" rows="5" keywidth="100" keyheight="115"></layout>
+    <row roworder="0" keys="8">
+        <key name="" id="0" type="hide">
+            <neighbour name="" id="1"></neighbour>
+            <neighbour name="" id="8"></neighbour>
+        </key>
+    	<key name="" id="1" type="hide">
+    	    <neighbour name="" id="0"></neighbour>
+    	    <neighbour name="" id="2"></neighbour>
+    	    <neighbour name="" id="9"></neighbour>
+    	    <neighbour name="" id="8"></neighbour>
+    	</key>
+    	<key name="" id="2" type="hide">
+    	    <neighbour name="" id="1"></neighbour>
+    	    <neighbour name="" id="3"></neighbour>
+    	    <neighbour name="" id="10"></neighbour>
+    	    <neighbour name="" id="9"></neighbour>
+    	</key>
+    	<key name="" id="3" type="hide">
+    	    <neighbour name="" id="2"></neighbour>
+    	    <neighbour name="" id="4"></neighbour>
+    	    <neighbour name="" id="11"></neighbour>
+    	    <neighbour name="" id="10"></neighbour>
+    	</key>
+    	<key name="" id="4" type="hide">
+    	    <neighbour name="" id="3"></neighbour>
+    	    <neighbour name="" id="5"></neighbour>
+    	    <neighbour name="" id="12"></neighbour>
+    	    <neighbour name="" id="11"></neighbour>
+    	</key>
+    	<key name="" id="5" type="hide">
+    	    <neighbour name="" id="4"></neighbour>
+    	    <neighbour name="" id="6"></neighbour>
+    	    <neighbour name="" id="13"></neighbour>
+    	    <neighbour name="" id="12"></neighbour>
+    	</key>
+    	<key name="" id="6" type="hide">
+    	    <neighbour name="" id="5"></neighbour>
+    	    <neighbour name="" id="7"></neighbour>
+    	    <neighbour name="" id="14"></neighbour>
+    	    <neighbour name="" id="13"></neighbour>
+    	</key>
+    	<key name="" id="7" type="hide">
+    	    <neighbour name="" id="6"></neighbour>
+    	    <neighbour name="" id="14"></neighbour>
+    	</key>
+    </row>
+    <row roworder="1" keys="7">
+        <key name="j" id="8" type="letter">
+            <neighbour name="e" id="0"></neighbour>
+	        <neighbour name="v" id="1">
+	            <ng name="n" id="9"></ng>
+	        </neighbour>
+	        <neighbour name="i" id="9">
+	            <ng name="n" id="1"></ng>
+	            <ng name="g" id="0"></ng>
+	            <ng name="ng" id="15"></ng>
+	        </neighbour>
+	        <neighbour name="o" id="16"></neighbour>
+	        <neighbour name="" id="15"></neighbour>
+	        <dynamickey name="a" id="2"></dynamickey>
+	        <dynamickey name="o" id="3"></dynamickey>
+	        <dynamickey name="u" id="10"></dynamickey>
+	        <dynamickey name="e" id="17"></dynamickey>
+	    </key>
+	    <key name="d" id="9" type="letter">
+	        <neighbour name="a" id="8">
+	            <ng name="n" id="1"></ng>
+	            <ng name="g" id="2"></ng>
+	        </neighbour>
+	        <neighbour name="e" id="1">
+	            <ng name="n" id="8"></ng>
+	            <ng name="g" id="16"></ng>
+	        </neighbour>
+	        <neighbour name="" id="2"></neighbour>
+	        <neighbour name="i" id="10">
+	            <ng name="n" id="2"></ng>
+	            <ng name="g" id="1"></ng>
+	        </neighbour>
+	        <neighbour name="o" id="17">
+	            <ng name="ng" id="10"></ng>
+	        </neighbour>
+	        <neighbour name="u" id="16">
+	            <ng name="n" id="15"></ng>
+	            <ng name="n" id="1"></ng>
+	        </neighbour>
+	        <dynamickey name="i" id="0"></dynamickey>
+	        <dynamickey name="a" id="3"></dynamickey>
+	        <dynamickey name="o" id="4"></dynamickey>
+	        <dynamickey name="u" id="11"></dynamickey>
+	        <dynamickey name="o" id="15"></dynamickey>
+	        <dynamickey name="e" id="18"></dynamickey>
+	        <dynamickey name="i" id="23"></dynamickey>
+	    </key>
+	    <key name="t" id="10" type="letter">
+	        <neighbour name="a" id="9">
+	            <ng name="n" id="2"></ng>
+	            <ng name="g" id="3"></ng>
+	        </neighbour>
+	        <neighbour name="e" id="2">
+	            <ng name="ng" id="9"></ng>
+	        </neighbour>
+	        <neighbour name="i" id="11">
+	            <ng name="n" id="3"></ng>
+	            <ng name="g" id="2"></ng>
+	        </neighbour>
+	        <neighbour name="" id="3"></neighbour>
+	        <neighbour name="o" id="18">
+	            <ng name="ng" id="11"></ng>
+	        </neighbour>
+	        <neighbour name="u" id="17">
+	            <ng name="n" id="16"></ng>
+	            <ng name="n" id="2"></ng>
+	        </neighbour>
+	        <dynamickey name="i" id="1"></dynamickey>
+	        <dynamickey name="a" id="4"></dynamickey>
+	        <dynamickey name="o" id="5"></dynamickey>
+	        <dynamickey name="o" id="16"></dynamickey>
+	        <dynamickey name="e" id="19"></dynamickey>
+	        <dynamickey name="i" id="24"></dynamickey>
+	    </key>
+	    <key name="n" id="11" type="letter">
+	        <neighbour name="a" id="10">
+	            <ng name="n" id="3"></ng>
+	            <ng name="g" id="4"></ng>
+	        </neighbour>
+	        <neighbour name="e" id="3">
+	            <ng name="n" id="10"></ng>
+	            <ng name="g" id="18"></ng>
+	        </neighbour>
+	        <neighbour name="v" id="4"></neighbour>
+	        <neighbour name="i" id="12">
+	            <ng name="n" id="4"></ng>
+	            <ng name="g" id="3"></ng>
+	        </neighbour>
+	        <neighbour name="o" id="19">
+	            <ng name="ng" id="12"></ng>
+	        </neighbour>
+	        <neighbour name="u" id="18">
+	            <ng name="n" id="17"></ng>
+	            <ng name="n" id="3"></ng>
+	        </neighbour>
+	        <dynamickey name="i" id="2"></dynamickey>
+	        <dynamickey name="a" id="5"></dynamickey>
+	        <dynamickey name="o" id="6"></dynamickey>
+	        <dynamickey name="u" id="13"></dynamickey>
+	        <dynamickey name="o" id="17"></dynamickey>
+	        <dynamickey name="e" id="20"></dynamickey>
+	    </key>
+	    <key name="l" id="12" type="letter">
+	        <neighbour name="a" id="11">
+	            <ng name="n" id="4"></ng>
+	            <ng name="g" id="5"></ng>
+	        </neighbour>
+	        <neighbour name="e" id="4">
+	            <ng name="n" id="11"></ng>
+	            <ng name="g" id="19"></ng>
+	        </neighbour>
+	        <neighbour name="v" id="5"></neighbour>
+	        <neighbour name="i" id="13">
+	            <ng name="n" id="5"></ng>
+	            <ng name="g" id="4"></ng>
+	        </neighbour>
+	        <neighbour name="o" id="20">
+	            <ng name="ng" id="13"></ng>
+	        </neighbour>
+	        <neighbour name="u" id="19">
+	            <ng name="n" id="18"></ng>
+	            <ng name="n" id="4"></ng>
+	        </neighbour>
+	        <dynamickey name="i" id="3"></dynamickey>
+	        <dynamickey name="a" id="6"></dynamickey>
+	        <dynamickey name="o" id="7"></dynamickey>
+	        <dynamickey name="u" id="14"></dynamickey>
+	        <dynamickey name="o" id="18"></dynamickey>
+	        <dynamickey name="e" id="21"></dynamickey>
+	    </key>
+	    <key name="g" id="13" type="letter">
+	        <neighbour name="a" id="12">
+	            <ng name="n" id="5"></ng>
+	            <ng name="g" id="6"></ng>
+	        </neighbour>
+	        <neighbour name="e" id="5">
+	            <ng name="n" id="12"></ng>
+	            <ng name="g" id="20"></ng>
+	        </neighbour>
+	        <neighbour name="" id="6"></neighbour>
+	        <neighbour name="" id="14"></neighbour>
+	        <neighbour name="o" id="21">
+	            <ng name="ng" id="14"></ng>
+	        </neighbour>
+	        <neighbour name="u" id="20">
+	            <ng name="n" id="19"></ng>
+	            <ng name="n" id="5"></ng>
+	            <ng name="g" id="6"></ng>
+	        </neighbour>
+	        <dynamickey name="i" id="4"></dynamickey>
+	        <dynamickey name="o" id="19"></dynamickey>
+	        <dynamickey name="i" id="27"></dynamickey>
+	    </key>
+	    <key name="k" id="14" type="letter">
+	        <neighbour name="a" id="13">
+	            <ng name="n" id="6"></ng>
+	            <ng name="g" id="7"></ng>
+	        </neighbour>
+	        <neighbour name="e" id="6">
+	            <ng name="n" id="13"></ng>
+	            <ng name="g" id="21"></ng>
+	        </neighbour>
+	        <neighbour name="" id="7"></neighbour>
+	        <neighbour name="o" id="22">
+	            <ng name="ng" id="29"></ng>
+	        </neighbour>
+	        <neighbour name="u" id="21">
+	            <ng name="n" id="20"></ng>
+	            <ng name="n" id="6"></ng>
+	            <ng name="g" id="7"></ng>
+	        </neighbour>
+	        <dynamickey name="i" id="5"></dynamickey>
+	        <dynamickey name="o" id="20"></dynamickey>
+	        <dynamickey name="i" id="28"></dynamickey>
+	    </key>
+    </row>
+    <row roworder="2" keys="8">
+        <key name="aoe" id="15" type="aoe">
+            <neighbour name="a" id="8"></neighbour>
+            <neighbour name="e" id="16"></neighbour>
+            <neighbour name="o" id="23"></neighbour>
+            <dynamickey name="i" id="0"></dynamickey>
+            <dynamickey name="o" id="1"></dynamickey>
+            <dynamickey name="n" id="9"></dynamickey>
+            <dynamickey name="g" id="10"></dynamickey>
+            <dynamickey name="i" id="17"></dynamickey>
+            <dynamickey name="r" id="24"></dynamickey>
+            <dynamickey name="u" id="31"></dynamickey>
+        </key>
+        <key name="q" id="16" type="letter">
+            <neighbour name="" id="15"></neighbour>
+            <neighbour name="e" id="8"></neighbour>
+            <neighbour name="v" id="9">
+                <ng name="n" id="17"></ng>
+            </neighbour>
+            <neighbour name="i" id="17">
+                <ng name="n" id="9"></ng>
+                <ng name="g" id="8"></ng>
+                <ng name="ng" id="23"></ng>
+            </neighbour>
+            <neighbour name="o" id="24"></neighbour>
+            <neighbour name="" id="23"></neighbour>
+            <dynamickey name="a" id="10"></dynamickey>
+            <dynamickey name="o" id="11"></dynamickey>
+            <dynamickey name="u" id="18"></dynamickey>
+            <dynamickey name="e" id="25"></dynamickey>
+        </key>
+        <key name="z" id="17" type="letter">
+            <neighbour name="a" id="16">
+                <ng name="n" id="9"></ng>
+                <ng name="g" id="10"></ng>
+            </neighbour>
+            <neighbour name="e" id="9">
+                <ng name="n" id="16"></ng>
+                <ng name="g" id="24"></ng>
+            </neighbour>
+            <neighbour name="h" id="10"></neighbour>
+            <neighbour name="i" id="18"></neighbour>
+            <neighbour name="o" id="25">
+                <ng name="ng" id="18"></ng>
+            </neighbour>
+            <neighbour name="u" id="24">
+                <ng name="n" id="23"></ng>
+                <ng name="n" id="9"></ng>
+                <ng name="g" id="10"></ng>
+            </neighbour>
+            <dynamickey name="i" id="8"></dynamickey>
+            <dynamickey name="o" id="23"></dynamickey>
+            <dynamickey name="i" id="31"></dynamickey>
+        </key>
+        <key name="c" id="18" type="letter">
+            <neighbour name="a" id="17">
+                <ng name="n" id="10"></ng>
+                <ng name="g" id="11"></ng>
+            </neighbour>
+            <neighbour name="e" id="10">
+                <ng name="n" id="17"></ng>
+                <ng name="g" id="25"></ng>
+            </neighbour>
+            <neighbour name="h" id="11"></neighbour>
+            <neighbour name="i" id="19"></neighbour>
+            <neighbour name="o" id="26">
+                <ng name="ng" id="19"></ng>
+            </neighbour>
+            <neighbour name="u" id="25">
+                <ng name="n" id="24"></ng>
+                <ng name="n" id="10"></ng>
+                <ng name="g" id="11"></ng>
+            </neighbour>
+            <dynamickey name="i" id="9"></dynamickey>
+            <dynamickey name="o" id="24"></dynamickey>
+            <dynamickey name="i" id="32"></dynamickey>
+        </key>
+        <key name="s" id="19" type="letter">
+            <neighbour name="a" id="18">
+                <ng name="n" id="11"></ng>
+                <ng name="g" id="12"></ng>
+            </neighbour>
+            <neighbour name="e" id="11">
+                <ng name="n" id="18"></ng>
+                <ng name="g" id="26"></ng>
+            </neighbour>
+            <neighbour name="h" id="12"></neighbour>
+            <neighbour name="i" id="20"></neighbour>
+            <neighbour name="o" id="27">
+                <ng name="ng" id="20"></ng>
+            </neighbour>
+            <neighbour name="u" id="26">
+                <ng name="n" id="25"></ng>
+                <ng name="n" id="11"></ng>
+                <ng name="g" id="12"></ng>
+            </neighbour>
+            <dynamickey name="i" id="10"></dynamickey>
+            <dynamickey name="o" id="25"></dynamickey>
+            <dynamickey name="i" id="33"></dynamickey>
+        </key>
+        <key name="r" id="20" type="letter">
+            <neighbour name="a" id="19">
+                <ng name="n" id="12"></ng>
+                <ng name="g" id="13"></ng>
+            </neighbour>
+            <neighbour name="e" id="12">
+                <ng name="n" id="19"></ng>
+                <ng name="g" id="27"></ng>
+            </neighbour>
+            <neighbour name="" id="13"></neighbour>
+            <neighbour name="i" id="21"></neighbour>
+            <neighbour name="o" id="28">
+                <ng name="ng" id="21"></ng>
+            </neighbour>
+            <neighbour name="u" id="27">
+                <ng name="n" id="28"></ng>
+                <ng name="n" id="12"></ng>
+            </neighbour>
+            <dynamickey name="o" id="26"></dynamickey>
+            <dynamickey name="i" id="34"></dynamickey>
+        </key>
+        <key name="h" id="21" type="letter">
+            <neighbour name="a" id="20">
+                <ng name="n" id="13"></ng>
+                <ng name="g" id="14"></ng>
+            </neighbour>
+            <neighbour name="e" id="13">
+                <ng name="n" id="20"></ng>
+                <ng name="g" id="28"></ng>
+            </neighbour>
+            <neighbour name="" id="14"></neighbour>
+            <neighbour name="" id="22"></neighbour>
+            <neighbour name="o" id="29">
+                <ng name="ng" id="22"></ng>
+            </neighbour>
+            <neighbour name="u" id="28">
+                <ng name="n" id="27"></ng>
+                <ng name="n" id="13"></ng>
+                <ng name="g" id="14"></ng>
+            </neighbour>
+            <dynamickey name="i" id="12"></dynamickey>
+            <dynamickey name="o" id="27"></dynamickey>
+            <dynamickey name="i" id="35"></dynamickey>
+        </key>
+        <key name="delete" id="22" type="delete">
+            <neighbour name="" id="21"></neighbour>
+            <neighbour name="" id="14"></neighbour>
+            <neighbour name="" id="29"></neighbour>
+        </key>
+    </row>
+    <row roworder="3" keys="7">
+        <key name="x" id="23" type="letter">
+            <neighbour name="e" id="15"></neighbour>
+            <neighbour name="v" id="16">
+                <ng name="n" id="24"></ng>
+            </neighbour>
+            <neighbour name="i" id="24">
+                <ng name="n" id="16"></ng>
+                <ng name="g" id="15"></ng>
+                <ng name="ng" id="30"></ng>
+            </neighbour>
+            <neighbour name="o" id="31"></neighbour>
+            <neighbour name="" id="30"></neighbour>
+            <dynamickey name="a" id="17"></dynamickey>
+            <dynamickey name="o" id="18"></dynamickey>
+            <dynamickey name="u" id="25"></dynamickey>
+            <dynamickey name="e" id="32"></dynamickey>
+        </key>
+        <key name="b" id="24" type="letter">
+			<neighbour name="a" id="23">
+				<ng name="n" id="16"></ng>
+	            <ng name="g" id="17"></ng>
+	       	</neighbour>
+	        <neighbour name="e" id="16">
+	        	<ng name="n" id="23"></ng>
+	        	<ng name="g" id="31"></ng>
+	       	</neighbour>
+	       	<neighbour name="" id="17"></neighbour>
+	        <neighbour name="i" id="25">
+	        	<ng name="n" id="17"></ng>
+	        	<ng name="g" id="16"></ng>
+	        </neighbour>
+	        <neighbour name="o" id="32"></neighbour>
+	        <neighbour name="u" id="31"></neighbour>
+	        <dynamickey name="i" id="15"></dynamickey>
+	        <dynamickey name="a" id="18"></dynamickey>
+	        <dynamickey name="o" id="19"></dynamickey>
+	        <dynamickey name="o" id="30"></dynamickey>
+	        <dynamickey name="e" id="33"></dynamickey>
+	    </key>
+	    <key name="p" id="25" type="letter">
+	        <neighbour name="a" id="24">
+				<ng name="n" id="17"></ng>
+	            <ng name="g" id="18"></ng>
+	       	</neighbour>
+	        <neighbour name="e" id="17">
+	        	<ng name="n" id="24"></ng>
+	        	<ng name="g" id="32"></ng>
+	       	</neighbour>
+	       	<neighbour name="" id="18"></neighbour>
+	        <neighbour name="i" id="26">
+	        	<ng name="n" id="18"></ng>
+	        	<ng name="g" id="17"></ng>
+	        </neighbour>
+	        <neighbour name="o" id="33"></neighbour>
+	        <neighbour name="u" id="32"></neighbour>
+	        <dynamickey name="i" id="16"></dynamickey>
+	        <dynamickey name="a" id="19"></dynamickey>
+	        <dynamickey name="o" id="20"></dynamickey>
+	        <dynamickey name="o" id="31"></dynamickey>
+	        <dynamickey name="e" id="34"></dynamickey>
+	    </key>
+	    <key name="m" id="26" type="letter">
+	        <neighbour name="a" id="25">
+				<ng name="n" id="18"></ng>
+	            <ng name="g" id="19"></ng>
+	       	</neighbour>
+	        <neighbour name="e" id="18">
+	        	<ng name="n" id="25"></ng>
+	        	<ng name="g" id="33"></ng>
+	       	</neighbour>
+	       	<neighbour name="" id="19"></neighbour>
+	        <neighbour name="i" id="27">
+	        	<ng name="n" id="19"></ng>
+	        	<ng name="g" id="18"></ng>
+	        </neighbour>
+	        <neighbour name="o" id="34"></neighbour>
+	        <neighbour name="u" id="33"></neighbour>
+	        <dynamickey name="i" id="17"></dynamickey>
+	        <dynamickey name="a" id="20"></dynamickey>
+	        <dynamickey name="o" id="21"></dynamickey>
+	        <dynamickey name="u" id="28"></dynamickey>
+	        <dynamickey name="o" id="32"></dynamickey>
+	        <dynamickey name="e" id="35"></dynamickey>
+	    </key>
+	    <key name="f" id="27" type="letter">
+	        <neighbour name="a" id="26">
+				<ng name="n" id="19"></ng>
+	            <ng name="g" id="20"></ng>
+	       	</neighbour>
+	        <neighbour name="e" id="19">
+	        	<ng name="n" id="26"></ng>
+	        	<ng name="g" id="34"></ng>
+	       	</neighbour>
+	       	<neighbour name="" id="20"></neighbour>
+	        <neighbour name="" id="28">
+	        </neighbour>
+	        <neighbour name="o" id="35"></neighbour>
+	        <neighbour name="u" id="34"></neighbour>
+	        <dynamickey name="i" id="18"></dynamickey>
+	    </key>
+	    <key name="y" id="28" type="letter">
+	        <neighbour name="a" id="27">
+	            <ng name="n" id="20"></ng>
+	            <ng name="g" id="21"></ng>
+	        </neighbour>
+	        <neighbour name="e" id="20"></neighbour>
+	        <neighbour name="v" id="21">
+	            <ng name="n" id="29"></ng>
+	        </neighbour>
+	        <neighbour name="" id="21"></neighbour>
+	        <neighbour name="i" id="29">
+	            <ng name="n" id="21"></ng>
+	            <ng name="g" id="20"></ng>
+	        </neighbour>
+	        <neighbour name="o" id="36">
+	            <ng name="ng" id="29"></ng>
+	        </neighbour>
+	        <neighbour name="u" id="35">
+	            <ng name="n" id="34"></ng>
+	            <ng name="n" id="20"></ng>
+	        </neighbour>
+	        <dynamickey name="o" id="34"></dynamickey>
+	        <dynamickey name="a" id="22"></dynamickey>
+	    </key>
+	    <key name="w" id="29" type="letter">
+	        <neighbour name="a" id="28">
+	            <ng name="n" id="21"></ng>
+	            <ng name="g" id="22"></ng>
+	        </neighbour>
+	        <neighbour name="e" id="21">
+	            <ng name="n" id="28"></ng>
+	            <ng name="g" id="36"></ng>
+	        </neighbour>
+	        <neighbour name="" id="22"></neighbour>
+	        <neighbour name="o" id="37"></neighbour>
+	        <neighbour name="u" id="36"></neighbour>
+	        <dynamickey name="i" id="20"></dynamickey>
+	    </key>
+    </row>
+    <row roworder="4" keys="8">
+        <key name="symbols" id="30" type="symbols">
+            <neighbour name="" id="25"></neighbour>
+            <neighbour name="" id="31"></neighbour>
+        </key>
+        <key name="en" id="31" type="en">
+            <neighbour name="" id="30"></neighbour>
+            <neighbour name="" id="23"></neighbour>
+            <neighbour name="" id="24"></neighbour>
+            <neighbour name="" id="32"></neighbour>
+        </key>
+        <key name="comma" id="32" type="comma">
+            <neighbour name="" id="31"></neighbour>
+            <neighbour name="" id="24"></neighbour>
+            <neighbour name="" id="25"></neighbour>
+            <neighbour name="" id="33"></neighbour>
+        </key>
+        <key name="space" id="33" type="space">
+            <neighbour name="" id="32"></neighbour>
+            <neighbour name="" id="25"></neighbour>
+            <neighbour name="" id="26"></neighbour>
+            <neighbour name="" id="34"></neighbour>
+        </key>
+        <key name="period" id="34" type="period">
+            <neighbour name="" id="33"></neighbour>
+            <neighbour name="" id="26"></neighbour>
+            <neighbour name="" id="27"></neighbour>
+            <neighbour name="" id="35"></neighbour>
+        </key>
+        <key name="question" id="35" type="question">
+            <neighbour name="" id="34"></neighbour>
+            <neighbour name="" id="27"></neighbour>
+            <neighbour name="" id="28"></neighbour>
+            <neighbour name="" id="36"></neighbour>
+        </key>
+        <key name="enter" id="36" type="enter">
+            <neighbour name="" id="35"></neighbour>
+            <neighbour name="" id="28"></neighbour>
+            <neighbour name="" id="29"></neighbour>
+            <neighbour name="" id="37"></neighbour>
+        </key>
+        <key name="setting" id="37" type="setting">
+            <neighbour name="" id="36"></neighbour>
+            <neighbour name="" id="29"></neighbour>
+        </key>
+        <key name="zh" id="10" type="letter">
+            <neighbour name="a" id="9">
+                <ng name="n" id="2"></ng>
+                <ng name="g" id="3"></ng>
+            </neighbour>
+            <neighbour name="e" id="2">
+                <ng name="n" id="9"></ng>
+                <ng name="g" id="17"></ng>
+            </neighbour>
+            <neighbour name="" id="3"></neighbour>
+            <neighbour name="i" id="11"></neighbour>
+            <neighbour name="o" id="18">
+                <ng name="ng" id="11"></ng>
+            </neighbour>
+            <neighbour name="u" id="17">
+                <ng name="n" id="2"></ng>
+                <ng name="g" id="3"></ng>
+                <ng name="n" id="16"></ng>
+            </neighbour>
+            <dynamickey name="i" id="1"></dynamickey>
+            <dynamickey name="o" id="16"></dynamickey>
+            <dynamickey name="i" id="24"></dynamickey>
+        </key>
+        <key name="ch" id="11" type="letter">
+            <neighbour name="a" id="10">
+                <ng name="n" id="3"></ng>
+                <ng name="g" id="4"></ng>
+            </neighbour>
+            <neighbour name="e" id="3">
+                <ng name="n" id="10"></ng>
+                <ng name="g" id="18"></ng>
+            </neighbour>
+            <neighbour name="" id="4"></neighbour>
+            <neighbour name="i" id="12"></neighbour>
+            <neighbour name="o" id="19">
+                <ng name="ng" id="12"></ng>
+            </neighbour>
+            <neighbour name="u" id="18">
+                <ng name="n" id="3"></ng>
+                <ng name="g" id="4"></ng>
+                <ng name="n" id="17"></ng>
+            </neighbour>
+            <dynamickey name="i" id="2"></dynamickey>
+            <dynamickey name="o" id="17"></dynamickey>
+            <dynamickey name="i" id="25"></dynamickey>
+        </key>
+        <key name="sh" id="12" type="letter">
+            <neighbour name="a" id="11">
+                <ng name="n" id="4"></ng>
+                <ng name="g" id="5"></ng>
+            </neighbour>
+            <neighbour name="e" id="4">
+                <ng name="n" id="11"></ng>
+                <ng name="g" id="19"></ng>
+            </neighbour>
+            <neighbour name="" id="5"></neighbour>
+            <neighbour name="i" id="13"></neighbour>
+            <neighbour name="o" id="20"></neighbour>
+            <neighbour name="u" id="19">
+                <ng name="n" id="4"></ng>
+                <ng name="g" id="5"></ng>
+                <ng name="n" id="18"></ng>
+            </neighbour>
+            <dynamickey name="i" id="3"></dynamickey>
+            <dynamickey name="o" id="18"></dynamickey>
+            <dynamickey name="i" id="26"></dynamickey>
+        </key>
+    </row>
+</keys>
